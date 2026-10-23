@@ -223,8 +223,12 @@ If you use this code in your research, please cite:
 ```
 @article{saibi2025comparison,
   title={Comparison of Deep Learning Models for 1D Magnetotelluric Inversion},
-  author={SAIBI, Hakim and Hireche, Abdelhadi and Tsuji, Takeshi and Ali, Mohammed Y},
-  year={2025}
+  author={SAIBI, Hakim and Hireche, Abdelhadi and Tsuji, Takeshi and Ali, Mohammed Y. Ali and Ahmad B. Ahmad},
+  year={2026}
+  journal = {Applied Computing and Geosciences},
+  volume = {29},
+  pages = {100320} 
+
 }
 ```
 
@@ -232,4 +236,4 @@ If you use this code in your research, please cite:
 
 hakim.saibi@uaeu.ac.ae
 abdelhadi.h@uaeu.ac.ae
-ahmedbahaa1995@gmail.com
+ahmedbahaa5@hotmail.com
